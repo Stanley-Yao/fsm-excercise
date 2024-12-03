@@ -17,6 +17,4 @@ yarn
 ### Test
 
 Run 
-```zsh
-npm run test
-```
+`npm run test` or `Yarn test`
