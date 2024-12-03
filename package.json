@@ -1,0 +1,14 @@
+{
+  "name": "fsm-excercise",
+  "version": "1.0.0",
+  "description": "You will need to install node to run the code. I am not using fancy node js features, but `node 16+` is recommended.",
+  "main": "advanced.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

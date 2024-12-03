@@ -1,16 +1,22 @@
 ### Prerequisite
 
-You will need to install node to run the code. I am not using fancy node js features, but node 16+ is recommended.
+1. You will need to install node to run the code. I am not using fancy node js features, but `node 16+` is recommended.
+2. `npm` or `yarn` to install the testing library
 
-### How to run my solution?
-If you wish to run the standard answer, run the command: 
 
+### Installation
+Run
 ```zsh
-node standard.js
+npm install
+```
+OR
+```zsh
+yarn
 ```
 
-For Advanced version run 
+### Test
 
+Run 
 ```zsh
-node advanced.js
+npm run test
 ```
